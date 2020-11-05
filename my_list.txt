@@ -1,0 +1,4 @@
+"Green Bay Packers"
+"San Francisco 49ers"
+"Las Vegas Raiders"
+"Dallas Cowboys"
